@@ -27,5 +27,8 @@
 
 [이 페이지](https://www.ohchr.org/EN/HRBodies/HRC/ComplaintProcedure/Pages/HRCComplaintProcedureIndex.aspx) 에서 제소 할 수 있습니다.
 
+## 이 페이지 업데이트 하기
+이 페이지에 정보가 오래되었다면 PR을 날려주세요. 감사합니다.
+
 <hr>
 <sup>1: CNN이라 미국에서도 우익쪽인거 저도 압니다. 근데 팩트잖아요.</sup>  
