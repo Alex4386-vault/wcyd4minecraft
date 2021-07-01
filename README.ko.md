@@ -2,7 +2,7 @@
 <p align="right"><sup>이 문서는 <a href="https://github.com/Alex4386">Alex4386</a>가 유지보수 하고 있습니다.</sup></p>
 
 **요약**: 마인크래프트가 MS 계정으로 넘어가면서 여성가족부 셧다운제 제재 때문에 생긴 Xbox Live 연령 제한으로 인해,  
-기존 Mojang 계정을 Microsoft 게정으로 이관하면, **19세 미만인 경우, Xbox Profile을 생성할 수 없어, 더 이상 로그인이 불가능해집니다.**  
+기존 Mojang 계정을 Microsoft 계정으로 이관하면, **19세 미만인 경우, Xbox Profile을 생성할 수 없어, 더 이상 로그인이 불가능해집니다.**  
 
 ## 모르시는 분들을 위한 추가 설명
 아시다 시피 대한민국은 게임규제를 정말 좋아합니다. 아예 청소년 위해 물품이다, 마약이랑 비교하는 사람도 있으니까요. 심지어 외신에도 나올 정도로요. [자료<sup>1</sup>](https://edition.cnn.com/2011/11/22/world/asia/south-korea-gaming/index.html)  
