@@ -8,8 +8,8 @@
 [여기](./context/README.md)에 대략적인 상황 설명을 적어 뒀습니다.
 
 ## 여러 관점에서 바라보기
-* [한국 정보 입장](./perspectives/gov/README.md)
-* [Microsoft (작성중)](#)
+* [한국 정보 입장](./perspectives/gov/README.ko.md)
+* [Microsoft (작성중)](./perspectives/microsoft/README.ko.md)
 
 ## 어떻게 도울 수 있을까요?
 
