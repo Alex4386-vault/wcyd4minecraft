@@ -25,4 +25,4 @@ You can...
 ## Updating this docs
 If you want to update some of the stuff on any page on this Repository, Please create a PR.  
 
-As a grown-up adult that learned Java programming via Minecraft (and still developing Minecraft Java Edition Plugins to current day), I don't want to let this happen.  
+Even though I am not affected by this, Since I am 18+ but I have learned Java programming via Minecraft (and still developing Minecraft Java Edition Plugins to current day), I don't want to let this happen since many programmers are borned via Minecraft Java Edition modding community.  
