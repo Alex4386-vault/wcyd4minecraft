@@ -15,9 +15,7 @@ Which is **unavailable** for anyone **under age of 19** on **all hours** due to 
 * [South Korean Government](./perspectives/gov/README.md)
 * [Microsoft](./perspectives/microsoft/README.md)
 
-## How can I help then
-If you have South Korean citizenship, These are the things you can help out.  
-
+## How can I help
 You can...
 * [escalate this issue](./escalate/README.md)
 * or if you have any idea, Please add here via PR.
@@ -25,4 +23,4 @@ You can...
 ## Updating this docs
 If you want to update some of the stuff on any page on this Repository, Please create a PR.  
 
-Even though I am not affected by this, Since I am 18+ but I have learned Java programming via Minecraft (and still developing Minecraft Java Edition Plugins to current day), I don't want to let this happen since many programmers are borned via Minecraft Java Edition modding community.  
+Even though I am not affected by this, Since I am 18+ but I have learned Java programming via Minecraft (and still developing Minecraft Java Edition Plugins to current day), I don't want to let this happen since Minecraft Java Edition modding community is basically Programmer's bootcamp.  
