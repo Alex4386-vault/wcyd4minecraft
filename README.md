@@ -37,5 +37,8 @@ For your reference, These are the petitions currently running:
 
 You can file a complaint on [United Nations Human Rights Council](https://www.ohchr.org/EN/HRBodies/HRC/ComplaintProcedure/Pages/HRCComplaintProcedureIndex.aspx) right at their webpage.  
 
+## Updating this docs
+If you want to update some of the stuff on this page, Please create a PR.
+
 <hr>
 <sup>1: Yes, I know it is CNN (right wing of media), but hear me out. That's literally true.</sup>  
