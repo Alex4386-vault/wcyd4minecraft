@@ -19,6 +19,6 @@ In the [2011한마659 Verdict](../legal/2011한마659.md), as you can see, this 
 
 Also, verdict statement literally tells  `public good arising from limiting teenager's access is much more than providing freedom for parents to allow their childrens to play online games.`.  
 
-which clearly says Freedom of the individual was suppressed for public good. (even destroying the individual's dream, being a progamer). This is a pure definition of totalitarianism and also, nazism and more-likely seen on other-side of the Korea.    
+which clearly says Freedom of the individual was suppressed for public good. (even destroying the individual's dream, being a professional gamer). This is a pure definition of totalitarianism and also, nazism and more-likely seen on other-side of the Korea.    
   
 If you can speak out loud, Share these words and help us achieve liberty of e-sports and gaming in general.  
