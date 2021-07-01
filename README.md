@@ -13,7 +13,7 @@ Which is **unavailable** for anyone **under age of 19** on **all hours** due to 
 
 ## Viewing the perspectives
 * [South Korean Government](./perspectives/gov/README.md)
-* [Microsoft (Writing in progress)](./perspectives/microsoft/README.md)
+* [Microsoft](./perspectives/microsoft/README.md)
 
 ## How can I help then
 If you have South Korean citizenship, These are the things you can help out.  
