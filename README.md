@@ -1,6 +1,8 @@
 # What can you do for Minecraft
 <p align="right"><sup>Maintained by <a href="https://github.com/Alex4386">Alex4386</a></sup></p>
 
+**한국어 버전:** [README.ko.md](./README.ko.md)
+
 **TL;DR**: Minecraft have started migration to Xbox Account (which requires Xbox Profile),  
 Which is **unavailable** for anyone **under age of 19** on **all hours** due Microsoft's decision on teenager/childrens.
 
