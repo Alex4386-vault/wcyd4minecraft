@@ -9,7 +9,7 @@
 
 ## 여러 관점에서 바라보기
 * [한국 정보 입장](./perspectives/gov/README.ko.md)
-* [Microsoft (작성중)](./perspectives/microsoft/README.ko.md)
+* [Microsoft](./perspectives/microsoft/README.ko.md)
 
 ## 어떻게 도울 수 있을까요?
 
