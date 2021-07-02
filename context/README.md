@@ -13,5 +13,18 @@ Since the Minecraft's migration to Microsoft Account **REQUIRES** Xbox Profile, 
 
 Currently, South Korean Minecraft players (especially, Java Edition Players. which previously did not require Xbox Live account) is outraging as this is equivalent of [Deleting son's minecraft world](https://www.reddit.com/r/AmItheAsshole/comments/gap4oq/aita_for_deleting_my_sons_minecraft_world/) but in larger scale.  
 
+## So, How does it affect me?
+### I play Minecraft: Java Edition
+You are directly affected by this. If you are under age of 18.  
+Even if you are not, this could lead to a major decline in Java Edition's ecosystem in South Korea, since majority of Minecraft players are in younger audiences.  
+
+It will be rather helpful (even if you are over the age of 18) for entire Java Edition ecosystem, If you help us to move on and fight the current situation we are facing.  
+
+### I don't play Minecraft: Java Edition
+This incident still means your favorite games on Steam (especially, indie-games which uses network connections) might not support South Korea entirely.  
+Since South Korean government is strict about applying Shutdown act to every single game []() and considers none about the indie-developers at all, This could affect every single indie-games that uses network.  
+
+The law should be abolished if you consider Ministry of Gender Equality and Family's position against game-developers in "Shutdown Act", [(Reference)](../legal/2011한마659.md)
+
 <hr>
 <sup>1: Yes, I know it is CNN (right wing of media), but hear me out. but that news is not lying.</sup>  
