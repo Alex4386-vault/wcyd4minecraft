@@ -29,4 +29,4 @@ This incident still means your favorite games on Steam (especially, indie-games 
 Since [South Korean government (especially, Ministry of Gender Equality) is strict about applying Shutdown act to every single game and considers none about the indie-developers at all](../legal/2011한마659.md#adding-game-server-shutdown-feature-on-game-server-is-not-a-issue), This could affect every single indie-games that uses network.  
 
 <hr>
-<sup>1: Yes, I know it is CNN (right wing of media), but hear me out. but that news is not lying.</sup>  
+<sup>1: Yes, I know it is CNN (left wing of media), but hear me out. but that news is not lying.</sup>  
