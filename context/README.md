@@ -20,11 +20,13 @@ Even if you are not, this could lead to a major decline in Java Edition's ecosys
 
 It will be rather helpful (even if you are over the age of 18) for entire Java Edition ecosystem, If you help us to move on and fight the current situation we are facing.  
 
+#### What's the news, I can mitigate this issue by changing my Microsoft Account to United States.
+This is just putting the problem away for a moment, This can affect all games.  
+Please refer to `I don't play Minecraft: Java Edition` to get full insight.  
+
 ### I don't play Minecraft: Java Edition
 This incident still means your favorite games on Steam (especially, indie-games which uses network connections) might not support South Korea entirely.  
-Since South Korean government is strict about applying Shutdown act to every single game []() and considers none about the indie-developers at all, This could affect every single indie-games that uses network.  
-
-The law should be abolished if you consider Ministry of Gender Equality and Family's position against game-developers in "Shutdown Act", [(Reference)](../legal/2011한마659.md)
+Since [South Korean government (especially, Ministry of Gender Equality) is strict about applying Shutdown act to every single game and considers none about the indie-developers at all](../legal/2011한마659.md#adding-game-server-shutdown-feature-on-game-server-is-not-a-issue), This could affect every single indie-games that uses network.  
 
 <hr>
 <sup>1: Yes, I know it is CNN (right wing of media), but hear me out. but that news is not lying.</sup>  
