@@ -4,7 +4,7 @@
 ### Join the Petition
 For your reference, These are the petitions currently running:  
   
-* [(Bluehouse Open Petition) 마인크래프트 성인화를 멈춰주세요 (셧다운제 폐지)](https://www1.president.go.kr/petitions/Temp/erMjQ7)
+* [(Bluehouse Open Petition) Prevent Minecraft being a 18+ game (Request of abolition of Shutdown Act)](https://www1.president.go.kr/petitions/Temp/erMjQ7)
 * [(Natl Assembly) Petition for abolition of Shutdown Act](https://petitions.assembly.go.kr/status/registered/C50AC179F5FF1E1CE054A0369F40E84E)
 
 
