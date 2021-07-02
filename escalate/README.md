@@ -4,9 +4,11 @@
 ### Join the Petition
 For your reference, These are the petitions currently running:  
   
-* [마인크래프트 성인화를 멈춰주세요 (셧다운제 폐지)](https://www1.president.go.kr/petitions/Temp/erMjQ7)
+* [(Bluehouse Open Petition) 마인크래프트 성인화를 멈춰주세요 (셧다운제 폐지)](https://www1.president.go.kr/petitions/Temp/erMjQ7)
+* [(Natl Assembly) Petition for abolition of Shutdown Act](https://petitions.assembly.go.kr/status/registered/C50AC179F5FF1E1CE054A0369F40E84E)
 
-**Please note that Government won't make a briefing unless their petition has at least 100,000 votes, DO NOT DIVERSE THE VOTES**
+
+**If you can, Please join all of the petitions above. Bluehouse petition requires minimum of 100,000 votes to be briefed on National Television. And, National Assembly Petitions requires lots of votes to forward this issue to National Assembly.**
 
 ### File a "Human Rights Council Complaint" to United Nations Human Rights Council
 
