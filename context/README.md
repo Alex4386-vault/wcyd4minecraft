@@ -26,7 +26,7 @@ Please refer to `I don't play Minecraft: Java Edition` to get full insight.
 
 ### I don't play Minecraft: Java Edition
 This incident still means your favorite games on Steam (especially, indie-games which uses network connections) might not support South Korea entirely.  
-Since [South Korean government (especially, Ministry of Gender Equality) is strict about applying Shutdown act to every single game and considers none about the indie-developers at all](../legal/2011한마659.md#adding-game-server-shutdown-feature-on-game-server-is-not-a-issue), This could affect every single indie-games that uses network.  
+Since [South Korean government (especially, Ministry of Gender Equality) is strict about applying Shutdown act to every single game and considers none about the indie-developers at all](../legal/2011한마659.md#adding-game-server-shutdown-feature-on-game-server-is-not-a-issue), But this is literally impossible for Indie-game developers to implement (Declaring a Business in South Korea, Integrate an Government ID Verification API and Finally applying shutdown act on global server especially for users residing in South Korea (and just for South Korean citizens because no other country in the world requires game-developer to implement this))! This could affect every single indie-games that uses network.  
 
 <hr>
 <sup>1: Yes, I know it is CNN (left wing of media), but hear me out. but that news is not lying.</sup>  
