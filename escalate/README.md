@@ -8,7 +8,7 @@ For your reference, These are the petitions currently running:
 * [(Natl Assembly) Petition for abolition of Shutdown Act](https://petitions.assembly.go.kr/status/registered/C50AC179F5FF1E1CE054A0369F40E84E)
 
 
-**If you can, Please join all of the petitions above. Bluehouse petition requires minimum of 100,000 votes to be briefed on National Television. And, National Assembly Petitions requires lots of votes to forward this issue to National Assembly.**
+**If you can, Please join all of the petitions listed above. Bluehouse petition requires minimum of 100,000 votes to be briefed on National Television. And, National Assembly Petitions requires lots of votes to forward this issue to National Assembly.**
 
 ### File a "Human Rights Council Complaint" to United Nations Human Rights Council
 
