@@ -13,5 +13,24 @@ Since the Minecraft's migration to Microsoft Account **REQUIRES** Xbox Profile, 
 
 Currently, South Korean Minecraft players (especially, Java Edition Players. which previously did not require Xbox Live account) is outraging as this is equivalent of [Deleting son's minecraft world](https://www.reddit.com/r/AmItheAsshole/comments/gap4oq/aita_for_deleting_my_sons_minecraft_world/) but in larger scale.  
 
+## So, How does it affect me?
+### I play Minecraft: Java Edition
+You are directly affected by this. If you are under age of 18.  
+Even if you are not, this could lead to a major decline in Java Edition's ecosystem in South Korea, since majority of Minecraft players are in younger audiences.  
+
+It will be rather helpful (even if you are over the age of 18) for entire Java Edition ecosystem, If you help us to move on and fight the current situation we are facing.  
+
+#### What's the news, I can mitigate this issue by changing my Microsoft Account to United States.
+This is just putting the problem away for a moment, This can affect all games.  
+Please refer to `I don't play Minecraft: Java Edition` to get full insight.  
+
+### I don't play Minecraft: Java Edition
+This incident still means your favorite games on Steam (especially, indie-games which uses network connections) might not support South Korea entirely.  
+Since [South Korean government (especially, Ministry of Gender Equality) is strict about applying Shutdown act to every single game and considers none about the indie-developers at all](../legal/2011한마659.md#adding-game-server-shutdown-feature-on-game-server-is-not-a-issue).  
+**But this is literally impossible for Indie-game developers to implement since it costs lots of money!**  
+(Declaring a Business in South Korea, Integrate an Government ID Verification API and Finally applying shutdown act on global server especially for users residing in South Korea <sub>(just for South Korean citizens because no other country in the world requires game-developer to implement this)</sub>)  
+  
+**This could affect every single indie-games that uses network connectivity at all.**  
+
 <hr>
-<sup>1: Yes, I know it is CNN (right wing of media), but hear me out. but that news is not lying.</sup>  
+<sup>1: Yes, I know it is CNN (left wing of media), but hear me out. but that news is not lying.</sup>  
